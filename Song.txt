@@ -12,11 +12,3 @@ March as one
 Don't look back
 Oden's sons
 Attack!
-
-<<<<<<< HEAD
-four
-
-and five
-=======
-fourth couplete is here
->>>>>>> feature
